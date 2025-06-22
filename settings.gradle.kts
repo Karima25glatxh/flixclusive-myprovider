@@ -9,7 +9,7 @@ rootProject.name = "provider-template"
 include(
     "BasicDummyProvider",
     "BasicDummyWebViewProvider",
-    // "MySecondProvider",
+    // "flixclusive-myprovider",
 )
 
 
